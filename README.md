@@ -54,9 +54,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AkashHivarkhede/AkashHivarkhede/output/snake.svg" alt="Snake animation" />
 
 ###
 
